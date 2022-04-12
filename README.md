@@ -1,0 +1,2 @@
+# GROCETERIA
+Title : GROCETERIA  Platform : J2EE,React,My-SQL Duration : 1 Month Description : An Online Grocery Management System where the Admin can Add, Update and Delete products. The Groceries are divided into various categories like Fruits, Vegetables, etc. A user can select a particular item to view the details,choose the number of items and fill in details like Name, Address, etc to buy a product.
